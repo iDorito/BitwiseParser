@@ -27,6 +27,9 @@
 
 #VisualStudio
 .vs
+.tlog
+.log
+.ilk
 
 #Build	
 Build
